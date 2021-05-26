@@ -29,7 +29,7 @@
   "devDependencies": {
     "got": "^10.6.0",
     "semantic-release": "^15.8.0",
-    "tape": "^4.6.3",
+    "tape": "^5.0.0",
     "travis-deploy-once": "^5.0.1"
   },
   "dependencies": {
